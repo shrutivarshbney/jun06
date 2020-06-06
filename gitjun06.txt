@@ -1,0 +1,2 @@
+this is git file 
+i have downloaded and dragged in git repository
